@@ -1,0 +1,2 @@
+source,benchmark_assays,deployment_assay,n_candidates,n_fibers,ambiguous_fibers,certified_viable_candidates,certified_nonviable_candidates,response_ambiguous_candidates,ambiguous_candidate_fraction,deployment_active_prevalence
+MoleculeNet Tox21 public DeepChem CSV,NR-AR;NR-AR-LBD;NR-AhR;NR-Aromatase;NR-ER;NR-ER-LBD;NR-PPAR-gamma,SR-p53,4391,43,14,86,8,4297,0.9785925757230699,0.011842404919152812

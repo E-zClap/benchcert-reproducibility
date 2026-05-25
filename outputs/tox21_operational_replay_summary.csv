@@ -1,0 +1,5 @@
+policy,n_runs,mean_certified_fraction,mean_error_rate_among_certified,mean_error_rate_all_candidates,mean_ambiguous,mean_acquisition_cost
+benchmark_fiber_majority_certify_all,100,1.0,0.011927107061503416,0.011927107061503416,0.0,0.0
+global_majority_certify_all,100,1.0,0.011790432801822326,0.011790432801822326,0.0,0.0
+response_certified_exact_fiber,100,0.0066332574031890655,0.041429808504632605,0.0002733485193621868,2180.44,0.0
+response_certified_then_acquire_ambiguous,100,1.0,0.0002733485193621868,0.0002733485193621868,0.0,2180.44

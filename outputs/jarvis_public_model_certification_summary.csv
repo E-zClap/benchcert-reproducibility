@@ -1,0 +1,2 @@
+source,benchmark_property,deployment_property,deployment_threshold,models_with_both_prediction_files,models_audited,median_ambiguous_fraction,median_certifiable_fraction
+JARVIS-Leaderboard public GitHub predictions,formation_energy_peratom,optb88vdw_bandgap,1.0,15,15,1.0,0.0

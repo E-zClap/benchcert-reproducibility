@@ -1,0 +1,2 @@
+n_models,n_splits,median_clean_accuracy,median_robust_suite_accuracy,median_certifiable_fraction,median_ambiguous_fraction,clean_choice_changed_for_certification_fraction,clean_choice_changed_for_robustness_fraction
+8,25,0.972183588317107,0.08344923504867872,0.7726008344923505,0.22739916550764952,0.56,0.76

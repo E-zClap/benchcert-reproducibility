@@ -1,0 +1,11 @@
+# Core scientific computing
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+
+# Machine learning (vision robustness audit)
+scikit-learn>=1.3
+
+# Excel file reading (Matbench/data processing)
+openpyxl>=3.1

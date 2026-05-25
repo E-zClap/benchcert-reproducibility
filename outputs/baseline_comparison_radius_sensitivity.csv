@@ -1,0 +1,7 @@
+radius_scale,total_candidates,added_probes,no_new_probe_certified,no_new_probe_frac,residual_greedy_certified,residual_greedy_frac,uncertainty_certified,uncertainty_frac,diversity_certified,diversity_frac,benchmark_aligned_certified,benchmark_aligned_frac,random_mean_certified,random_p10_certified,random_p90_certified,random_mean_frac
+0.5,400,3,289,0.7225,333,0.8325,292,0.73,291,0.7275,304,0.76,310.97,299.0,323.0,0.777425
+0.75,400,3,224,0.56,301,0.7525,229,0.5725,229,0.5725,268,0.67,279.335,254.9,299.0,0.6983374999999999
+1.0,400,3,183,0.4575,283,0.7075,191,0.4775,191,0.4775,216,0.54,237.29,200.0,271.0,0.593225
+1.25,400,3,145,0.3625,247,0.6175,153,0.3825,153,0.3825,191,0.4775,200.345,166.9,229.0,0.5008625
+1.5,400,3,108,0.27,211,0.5275,114,0.285,114,0.285,158,0.395,172.745,137.9,200.0,0.43186250000000004
+2.0,400,3,62,0.155,169,0.4225,67,0.1675,65,0.1625,101,0.2525,122.77,86.9,158.0,0.306925

@@ -1,0 +1,5 @@
+policy,n_runs,mean_certified_fraction,mean_error_rate_among_certified,mean_error_rate_all_candidates,mean_ambiguous,mean_acquisition_cost
+global_majority_certify_all,750,1.0,0.21554199569274946,0.21554199569274946,0.0,0.0
+local_majority_certify_all,750,1.0,0.20308734146925103,0.20308734146925103,0.0,0.0
+response_certified_error_window,750,0.024580043072505386,0.06658852190093247,0.0012792534099066763,2717.52,0.0
+response_certified_then_acquire_ambiguous,750,1.0,0.0012792534099066763,0.0012792534099066763,0.0,2717.52

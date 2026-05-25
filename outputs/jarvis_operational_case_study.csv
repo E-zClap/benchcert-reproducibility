@@ -1,0 +1,7 @@
+acquisitions,benchmark_mae,certified_fraction,error_rate_among_certified,false_decision_rate_all,false_decisions,model_id,n_test,policy,role,seed
+0,0.0,1.0,0.2200287150035893,0.2200287150035893,613,alignn_model,2786,local_majority_certify_all,benchmark_mae_choice,39
+0,0.0,0.0017946877243359,0.4,0.0007178750897343,2,alignn_model,2786,response_certified_error_window,benchmark_mae_choice,39
+2781,0.0,1.0,0.0007178750897343,0.0007178750897343,2,alignn_model,2786,response_certified_then_acquire_ambiguous,benchmark_mae_choice,39
+0,0.0733967596872965,1.0,0.1977745872218234,0.1977745872218234,551,matminer_xgboost,2786,local_majority_certify_all,certification_choice,39
+0,0.0733967596872965,0.0122038765254845,0.0,0.0,0,matminer_xgboost,2786,response_certified_error_window,certification_choice,39
+2752,0.0733967596872965,1.0,0.0,0.0,0,matminer_xgboost,2786,response_certified_then_acquire_ambiguous,certification_choice,39

@@ -1,0 +1,3 @@
+domain,mean_acquisitions,mean_baseline_false_decisions,mean_break_even_acquisition_cost,mean_certify_acquire_false_decisions,mean_false_decisions_avoided,median_break_even_acquisition_cost,n_replays,p10_break_even_acquisition_cost,p90_break_even_acquisition_cost
+JARVIS,2717.52,565.8013333333333,0.20693497101682287,3.564,562.2373333333334,0.20694231208728453,750,0.19507774748879322,0.21885672869843725
+Tox21,2180.44,26.18,0.011731125784893543,0.6,25.58,0.01184510250569476,100,0.010022779043280182,0.01366742596810934

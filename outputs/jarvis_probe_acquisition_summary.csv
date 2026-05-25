@@ -1,0 +1,5 @@
+policy,n_seeds,cert_0probe_mean,cert_1probe_mean,false_dec_1probe_mean,cert_gain_mean,pct_chose_mbj,pct_chose_fe_control
+response_rank,200,0.0451,0.73,0.00759,0.6849,100.0,0.0
+oracle,200,0.0451,0.73,0.00759,0.6849,100.0,0.0
+random,200,0.0451,0.4828,0.02152,0.4377,57.0,43.0
+benchmark_aligned,200,0.0451,0.1524,0.03509,0.1073,0.0,100.0

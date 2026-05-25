@@ -1,0 +1,5 @@
+protocol,n_runs,mean_certified_fraction,mean_ambiguous_fraction,mean_false_decision_rate_all,mean_error_rate_among_certified
+benchmark_action,100,1.0,0.0,0.15014999999999998,0.15014999999999998
+ambient_response_rank,100,0.16102,0.83898,0.0,0.0
+decision_sufficiency,100,0.9699,0.030100000000000026,0.0,0.0
+oracle_deployment,100,1.0,0.0,0.0,0.0
