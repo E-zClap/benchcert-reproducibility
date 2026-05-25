@@ -1,10 +1,10 @@
-# Benchmark Certification for Machine Learning
+# Deployment-complete benchmarking
 
-Code and data for *"Benchmark certification for machine learning"* by El Mustapha Mansouri and Keigo Arai, Institute of Science Tokyo.
+Code and data for *"Deployment-complete benchmarking"* by El Mustapha Mansouri and Keigo Arai, Institute of Science Tokyo.
 
 ## Overview
 
-This repository provides the scripts, data pipelines and cached outputs to reproduce all experiments, figures and tables in the manuscript. The core idea is **benchmark certification**: a reporting layer that asks whether benchmark evidence is sufficient to certify a downstream deployment claim.
+This repository provides the scripts, data pipelines and cached outputs to reproduce all experiments, figures and tables in the manuscript. The core idea is **deployment-complete benchmarking**: an audit of whether benchmark evidence determines the deployment action being claimed, which cases remain ambiguous, and what completion evidence would close the gap.
 
 ## Requirements
 
@@ -130,7 +130,7 @@ MIT. See [LICENCE](LICENCE).
 ```bibtex
 @article{mansouri2026benchmark,
   author  = {Mansouri, El Mustapha and Arai, Keigo},
-  title   = {Benchmark certification for machine learning},
+  title   = {Deployment-complete benchmarking},
   journal = {Submitted},
   year    = {2026}
 }
